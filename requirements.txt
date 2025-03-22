@@ -3,5 +3,4 @@ flask
 Gunicorn
 sympy
 flask-cors
-re
 pprint
