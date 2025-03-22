@@ -3,7 +3,6 @@ flask
 Gunicorn
 sympy
 flask-cors
-sympy.parsing.latex
 ast
 re
 pprint
